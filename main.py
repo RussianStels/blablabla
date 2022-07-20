@@ -76,7 +76,7 @@ while True:
     print("Уснул. Конец")
     quit()
   elif location == "master":
-    print("")
+    print("")  
     quit()
   elif location == "room":
     response = ""
